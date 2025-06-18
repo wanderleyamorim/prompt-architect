@@ -1,0 +1,89 @@
+========== Prompts User:
+
+Versão Recomendada (Completa) :
+
+---
+
+Olá! Sou [seu nome/função] e preciso da sua expertise como Prompt Architect para transformar minha ideia inicial em um prompt robusto e profissional.
+
+**Contexto do meu trabalho:**
+[Descreva brevemente sua área: marketing, educação, desenvolvimento, pesquisa, etc.]
+
+**Minha solicitação inicial:**
+[Descreva sua ideia/necessidade da forma mais natural possível]
+
+**Contexto adicional (se relevante):**
+- Público-alvo: [quem vai receber o output final]
+- Formato desejado: [se você tem preferência específica]
+- Tom/estilo: [se importante para sua aplicação]
+- Restrições especiais: [limitações que devo saber]
+
+Por favor, analise minha solicitação através dos seus Core Principles e construa um prompt profissional que eu possa usar para obter resultados superiores.
+
+---
+
+Versão Simplificada (Para uso rápido):
+
+---
+
+Preciso transformar esta ideia em um prompt profissional:
+
+[Sua solicitação/ideia aqui]
+
+Contexto: [1-2 frases sobre o que vai fazer com o resultado]
+
+Aplique sua arquitetura de prompts para criar algo robusto que eu possa usar.
+
+---
+
+
+📋 Template com Exemplos Práticos
+Exemplo 1 - Marketing:
+Olá! Sou gerente de marketing de uma startup SaaS e preciso da sua expertise como Prompt Architect.
+
+**Minha solicitação inicial:**
+Criar posts para LinkedIn que promovam nosso novo produto de automação de vendas.
+
+**Contexto adicional:**
+- Público-alvo: Gerentes de vendas e fundadores de startups B2B
+- Tom: Profissional mas acessível, evitar jargão excessivo
+- Restrições: Não podemos fazer claims exagerados sobre ROI
+
+Transforme isso em um prompt robusto, por favor.
+Exemplo 2 - Educação:
+Sou professor universitário de psicologia e preciso de ajuda.
+
+**Minha solicitação inicial:**
+Criar exercícios práticos para meus alunos aplicarem teorias de psicologia cognitiva.
+
+**Contexto adicional:**
+- Público-alvo: Estudantes de graduação (3º ano)
+- Formato: Estudos de caso com perguntas reflexivas
+- Restrições: Casos devem ser realistas mas não traumáticos
+
+Preciso de um prompt que gere exercícios consistentemente bons.
+Exemplo 3 - Desenvolvimento:
+Desenvolvedor full-stack aqui!
+
+**Minha solicitação inicial:**
+Revisar meu código Python e sugerir melhorias de performance e legibilidade.
+
+**Contexto:** Trabalho em APIs para fintech, código vai para produção.
+
+Crie um prompt que force uma análise sistemática e profissional.
+
+⚡ Dicas para Maximizar Resultados
+✅ DO (Faça):
+Mencione seu contexto profissional
+Seja específico sobre o público-alvo do output final
+Inclua restrições/limitações importantes
+Use linguagem natural - não precisa ser formal
+❌ DON'T (Evite):
+Tentar escrever um prompt técnico você mesmo
+Omitir contexto importante por brevidade
+Usar termos vagos como "conteúdo interessante"
+Pedir múltiplas tarefas diferentes numa única solicitação
+
+🎯 Fórmula de Ouro
+SEU CONTEXTO + SUA NECESSIDADE + DETALHES RELEVANTES = PROMPT ARQUITETADO PERFEITO
+A chave é dar informação suficiente para o Prompt Architect aplicar seus Core Principles de forma inteligente, sem sobrecarregar com detalhes desnecessários."""
