@@ -1,4 +1,9 @@
-# Prompt Architect
+import os
+
+project_dir = '/a0/work_dir/prompt_architect_project'
+os.chdir(project_dir)
+
+readme_content = '''# Prompt Architect
 
 ## Project Name
 Prompt Architect
@@ -35,3 +40,7 @@ Developers, prompt engineers, AI researchers, product managers, startup founders
 ## Contact and Contribution
 For questions, suggestions, or contributions, please refer to the GitHub repository issues section or contact the repository owner.
 
+'''
+
+with open('README.md', 'w') as f:
+    f.write(readme_content)

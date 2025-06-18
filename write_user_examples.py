@@ -1,4 +1,9 @@
-### **User Prompts for README.md Examples**
+import os
+
+project_dir = '/a0/work_dir/prompt_architect_project'
+os.chdir(project_dir)
+
+file_content = '''### **User Prompts for README.md Examples**
 
 #### **Example 1: Simple Request**
 
@@ -19,3 +24,7 @@
 #### **Example 5: Multi-step Task Request**
 
 **User Prompt:** "I need to set up a new web server on a Linux VM. First, install Nginx. Then, configure it to serve a static HTML page from `/var/www/html/my_site`. Finally, ensure it starts automatically on boot and is accessible from the internet (assuming port 80 is open). Provide the exact commands I need to run, step-by-step."
+'''
+
+with open('prompt_architect_user_examples.txt', 'w') as f:
+    f.write(file_content)
