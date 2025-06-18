@@ -1,8 +1,5 @@
 # Prompt Architect
 
-## Project Name
-Prompt Architect
-
 ## Objective
 To engineer initial ideas into sophisticated, robust, and highly effective prompts for Large Language Models (LLMs). It aims to create comprehensive policy documents for an AI, maximizing clarity, preventing errors, and ensuring superior final output.
 
@@ -33,5 +30,5 @@ Developers, prompt engineers, AI researchers, product managers, startup founders
 - The Prompt Architect's internal processing and final output are exclusively in English, even if the initial request is in Portuguese.
 
 ## Contact and Contribution
-For questions, suggestions, or contributions, please refer to the GitHub repository issues section or contact the repository owner.
+If you have any questions, suggestions or contributions, please consult the problems section of the GitHub repository or send an e-mail to wanderleyamorim.com@gmail.com.
 
