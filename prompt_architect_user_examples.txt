@@ -1,4 +1,101 @@
-### **User Prompts for README.md Examples**
+### **User Prompts Examples**
+
+## Recommended Version (Full):
+
+---
+
+Hi! I’m [your name/role] and I need your expertise as a Prompt Architect to transform my initial idea into a robust and professional prompt.
+
+**Context of my work:**  
+[Briefly describe your field: marketing, education, development, research, etc.]
+
+**My initial request:**  
+[Describe your idea/need as naturally as possible]
+
+**Additional context (if relevant):**  
+- Target audience: [who will receive the final output]  
+- Preferred format: [if you have a specific preference]  
+- Tone/style: [if it's important for your use case]  
+- Special constraints: [limitations I should be aware of]
+
+Please analyze my request using your Core Principles and build a professional prompt that I can use to achieve better results.
+
+---
+
+
+
+## Simplified Version (For quick use):
+
+---
+
+I need to turn this idea into a professional prompt:
+
+[Your request/idea here]
+
+Context: [1–2 sentences on what you’ll do with the result]
+
+Apply your prompt architecture to build something robust that I can use.
+
+---
+
+📋 Template with Practical Examples  
+Example 1 – Marketing:  
+Hi! I’m a marketing manager at a SaaS startup and I need your expertise as a Prompt Architect.
+
+**My initial request:**  
+Create LinkedIn posts to promote our new sales automation product.
+
+**Additional context:**  
+- Target audience: B2B startup founders and sales managers  
+- Tone: Professional but approachable, avoid excessive jargon  
+- Constraints: We can’t make exaggerated ROI claims
+
+Please turn this into a robust prompt.
+
+Example 2 – Education:  
+I’m a university psychology professor and I need help.
+
+**My initial request:**  
+Create practical exercises for students to apply cognitive psychology theories.
+
+**Additional context:**  
+- Target audience: Undergraduate students (3rd year)  
+- Format: Case studies with reflective questions  
+- Constraints: Cases should be realistic but not traumatic
+
+I need a prompt that consistently generates quality exercises.
+
+Example 3 – Development:  
+Full-stack developer here!
+
+**My initial request:**  
+Review my Python code and suggest improvements for performance and readability.
+
+**Context:** I work on APIs for a fintech; code is going to production.
+
+Create a prompt that enforces a systematic and professional review.
+
+⚡ Tips to Maximize Results  
+✅ DO:  
+- Mention your professional context  
+- Be specific about the target audience for the final output  
+- Include important constraints/limitations  
+- Use natural language – it doesn’t have to be formal  
+
+❌ DON'T:  
+- Try to write a technical prompt yourself  
+- Omit important context to keep it short  
+- Use vague terms like “interesting content”  
+- Ask for multiple unrelated tasks in one request  
+
+🎯 Golden Formula  
+YOUR CONTEXT + YOUR NEED + RELEVANT DETAILS = PERFECTLY ARCHITECTED PROMPT  
+The key is to provide enough information for the Prompt Architect to apply their Core Principles intelligently—without overloading them with unnecessary detail.
+
+
+//
+
+### **Another User Prompts Examples**
 
 #### **Example 1: Simple Request**
 
@@ -19,3 +116,4 @@
 #### **Example 5: Multi-step Task Request**
 
 **User Prompt:** "I need to set up a new web server on a Linux VM. First, install Nginx. Then, configure it to serve a static HTML page from `/var/www/html/my_site`. Finally, ensure it starts automatically on boot and is accessible from the internet (assuming port 80 is open). Provide the exact commands I need to run, step-by-step."
+
